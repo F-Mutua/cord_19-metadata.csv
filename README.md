@@ -11,6 +11,8 @@ This project explores the `metadata.csv` file from the [CORD-19 Research Challen
 ## DOWNLOADING METADATA.CSV
 Follow the link to download
 (https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge?resource=download&select=metadata.csv)
+
+##
 We perform:  
 - Data loading and exploration  
 - Data cleaning and preparation  
