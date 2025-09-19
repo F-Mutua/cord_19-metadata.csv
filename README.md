@@ -8,6 +8,9 @@ This project demonstrates the **end-to-end data science workflow**: data loading
 ## 🚀 Project Overview
 This project explores the `metadata.csv` file from the [CORD-19 Research Challenge](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge).  
 
+## DOWNLOADING METADATA.CSV
+Follow the link to download
+(https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge?resource=download&select=metadata.csv)
 We perform:  
 - Data loading and exploration  
 - Data cleaning and preparation  
